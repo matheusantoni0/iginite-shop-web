@@ -40,4 +40,3 @@ yarn dev
 uma data posterior a atual e qualquer número de CVV.
 
 <hr>
-Disponível também em https://ignite-shop.bzenky.dev/
